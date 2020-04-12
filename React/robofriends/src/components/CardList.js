@@ -2,6 +2,12 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({robots}) => {
+
+	//code to simulate a error, and test ErrorBound
+	//if(true){
+	//	throw new Error('Nooooo');
+	//}
+
 	return (
 		<div>
 			{
