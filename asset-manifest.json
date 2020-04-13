@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/web_dev_course/React/robofriends/static/css/main.eb9b4efa.chunk.css",
-    "main.js": "/web_dev_course/React/robofriends/static/js/main.b33a1bd7.chunk.js",
-    "main.js.map": "/web_dev_course/React/robofriends/static/js/main.b33a1bd7.chunk.js.map",
-    "runtime-main.js": "/web_dev_course/React/robofriends/static/js/runtime-main.6b7398e6.js",
-    "runtime-main.js.map": "/web_dev_course/React/robofriends/static/js/runtime-main.6b7398e6.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/web_dev_course/React/robofriends/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.43071c07.chunk.js": "/web_dev_course/React/robofriends/static/js/2.43071c07.chunk.js",
-    "static/js/2.43071c07.chunk.js.map": "/web_dev_course/React/robofriends/static/js/2.43071c07.chunk.js.map",
-    "index.html": "/web_dev_course/React/robofriends/index.html",
-    "precache-manifest.2d6a7e0be28e64d50c8ab19f297f1473.js": "/web_dev_course/React/robofriends/precache-manifest.2d6a7e0be28e64d50c8ab19f297f1473.js",
-    "service-worker.js": "/web_dev_course/React/robofriends/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/web_dev_course/React/robofriends/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.eb9b4efa.chunk.css.map": "/web_dev_course/React/robofriends/static/css/main.eb9b4efa.chunk.css.map",
-    "static/js/2.43071c07.chunk.js.LICENSE.txt": "/web_dev_course/React/robofriends/static/js/2.43071c07.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/web_dev_course/React/robofriends/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/web_dev_course/static/css/main.fd00d349.chunk.css",
+    "main.js": "/web_dev_course/static/js/main.4525b66e.chunk.js",
+    "main.js.map": "/web_dev_course/static/js/main.4525b66e.chunk.js.map",
+    "runtime-main.js": "/web_dev_course/static/js/runtime-main.de7873ac.js",
+    "runtime-main.js.map": "/web_dev_course/static/js/runtime-main.de7873ac.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/web_dev_course/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.43071c07.chunk.js": "/web_dev_course/static/js/2.43071c07.chunk.js",
+    "static/js/2.43071c07.chunk.js.map": "/web_dev_course/static/js/2.43071c07.chunk.js.map",
+    "index.html": "/web_dev_course/index.html",
+    "precache-manifest.271dc598897656be468cf42fb909d953.js": "/web_dev_course/precache-manifest.271dc598897656be468cf42fb909d953.js",
+    "service-worker.js": "/web_dev_course/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/web_dev_course/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.fd00d349.chunk.css.map": "/web_dev_course/static/css/main.fd00d349.chunk.css.map",
+    "static/js/2.43071c07.chunk.js.LICENSE.txt": "/web_dev_course/static/js/2.43071c07.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/web_dev_course/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b7398e6.js",
+    "static/js/runtime-main.de7873ac.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.43071c07.chunk.js",
-    "static/css/main.eb9b4efa.chunk.css",
-    "static/js/main.b33a1bd7.chunk.js"
+    "static/css/main.fd00d349.chunk.css",
+    "static/js/main.4525b66e.chunk.js"
   ]
 }
